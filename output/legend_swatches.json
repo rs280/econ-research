@@ -1,0 +1,138 @@
+{
+  "abilene-reporter-news-apr-29-1946-p-19_map": [
+    {
+      "meaning": "C",
+      "swatch_path": "output/abilene-reporter-news-apr-29-1946-p-19_map_swatch_0_C.png",
+      "bbox": [
+        170,
+        293,
+        205,
+        328
+      ]
+    },
+    {
+      "meaning": "G",
+      "swatch_path": "output/abilene-reporter-news-apr-29-1946-p-19_map_swatch_1_G.png",
+      "bbox": [
+        160,
+        225,
+        240,
+        327
+      ]
+    },
+    {
+      "meaning": "E",
+      "swatch_path": "output/abilene-reporter-news-apr-29-1946-p-19_map_swatch_2_E.png",
+      "bbox": [
+        236,
+        234,
+        464,
+        525
+      ]
+    },
+    {
+      "meaning": "L",
+      "swatch_path": "output/abilene-reporter-news-apr-29-1946-p-19_map_swatch_3_L.png",
+      "bbox": [
+        439,
+        241,
+        486,
+        316
+      ]
+    },
+    {
+      "meaning": "K",
+      "swatch_path": "output/abilene-reporter-news-apr-29-1946-p-19_map_swatch_4_K.png",
+      "bbox": [
+        489,
+        436,
+        563,
+        553
+      ]
+    },
+    {
+      "meaning": "B",
+      "swatch_path": "output/abilene-reporter-news-apr-29-1946-p-19_map_swatch_5_B.png",
+      "bbox": [
+        274,
+        514,
+        770,
+        660
+      ]
+    }
+  ],
+  "appleton-post-crescent-oct-24-1922-p-13_map": [
+    {
+      "meaning": "Residential District.",
+      "swatch_path": "output/appleton-post-crescent-oct-24-1922-p-13_map_swatch_0_Residential_District_.png",
+      "bbox": [
+        420,
+        70,
+        565,
+        127
+      ]
+    }
+  ],
+  "atchison-daily-globe-nov-30-1943-p-4_map": [
+    {
+      "meaning": "ONE FAMILY DWELLINGS - CHURCHES, SCHOOLS, PARKS, ETC.",
+      "swatch_path": "output/atchison-daily-globe-nov-30-1943-p-4_map_swatch_0_ONE_FAMILY_DWELLINGS_-_CHURCHE.png",
+      "bbox": [
+        525,
+        215,
+        625,
+        275
+      ]
+    },
+    {
+      "meaning": "TWO FAMILY DWELLINGS - USES PERMITTED IN \"A\" DISTRICT.",
+      "swatch_path": "output/atchison-daily-globe-nov-30-1943-p-4_map_swatch_1_TWO_FAMILY_DWELLINGS_-_USES_PE.png",
+      "bbox": [
+        525,
+        275,
+        625,
+        335
+      ]
+    },
+    {
+      "meaning": "MULTIPLE DWELLINGS - USES PERMITTED IN \"B\" DISTRICT - HOSPITALS, INSTITUTIONS, ETC.",
+      "swatch_path": "output/atchison-daily-globe-nov-30-1943-p-4_map_swatch_2_MULTIPLE_DWELLINGS_-_USES_PERM.png",
+      "bbox": [
+        525,
+        335,
+        625,
+        395
+      ]
+    },
+    {
+      "meaning": "COMMERCIAL - USES PERMITTED IN \"C\" DISTRICT - RETAIL STORES, FILLING STATIONS, THEATRES, OFFICES, ETC.",
+      "swatch_path": "output/atchison-daily-globe-nov-30-1943-p-4_map_swatch_3_COMMERCIAL_-_USES_PERMITTED_IN.png",
+      "bbox": [
+        525,
+        395,
+        625,
+        455
+      ]
+    },
+    {
+      "meaning": "LIGHT INDUSTRY - USES PERMITTED IN \"D\" DISTRICT - ANY USE NOT OFFENSIVE BECAUSE OF EMISSION OF DUST, NOISE, ODOR, ETC.",
+      "swatch_path": "output/atchison-daily-globe-nov-30-1943-p-4_map_swatch_4_LIGHT_INDUSTRY_-_USES_PERMITTE.png",
+      "bbox": [
+        525,
+        455,
+        625,
+        515
+      ]
+    },
+    {
+      "meaning": "HEAVY INDUSTRY - ANY USE EXCEPT NUISANCES.",
+      "swatch_path": "output/atchison-daily-globe-nov-30-1943-p-4_map_swatch_5_HEAVY_INDUSTRY_-_ANY_USE_EXCEP.png",
+      "bbox": [
+        525,
+        515,
+        625,
+        575
+      ]
+    }
+  ]
+}

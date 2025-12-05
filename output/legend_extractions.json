@@ -1,0 +1,321 @@
+[
+  {
+    "has_legend": true,
+    "legend_items": [
+      {
+        "symbol_type": "pattern",
+        "visual_description": "Area filled with dense, fine black dots",
+        "meaning": "One Family Residence",
+        "pattern_details": {
+          "pattern_type": "dots",
+          "color": "black",
+          "density": "dense"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Unfilled area (white background)",
+        "meaning": "Two Family",
+        "pattern_details": {
+          "pattern_type": "none",
+          "color": "white",
+          "density": "none"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Unfilled area (white background)",
+        "meaning": "Apartments",
+        "pattern_details": {
+          "pattern_type": "none",
+          "color": "white",
+          "density": "none"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Unfilled area (white background)",
+        "meaning": "Multi-Family",
+        "pattern_details": {
+          "pattern_type": "none",
+          "color": "white",
+          "density": "none"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Unfilled area (white background)",
+        "meaning": "Local Retail",
+        "pattern_details": {
+          "pattern_type": "none",
+          "color": "white",
+          "density": "none"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Unfilled area (white background)",
+        "meaning": "Commercial",
+        "pattern_details": {
+          "pattern_type": "none",
+          "color": "white",
+          "density": "none"
+        }
+      },
+      {
+        "symbol_type": "pattern",
+        "visual_description": "Area filled with dense black vertical lines",
+        "meaning": "Central Business",
+        "pattern_details": {
+          "pattern_type": "vertical_lines",
+          "color": "black",
+          "density": "dense"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Unfilled area (white background)",
+        "meaning": "Light Manufacturing And Storehouse",
+        "pattern_details": {
+          "pattern_type": "none",
+          "color": "white",
+          "density": "none"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Unfilled area (white background)",
+        "meaning": "Heavy Manufacturing",
+        "pattern_details": {
+          "pattern_type": "none",
+          "color": "white",
+          "density": "none"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Unfilled area (white background)",
+        "meaning": "Industrial",
+        "pattern_details": {
+          "pattern_type": "none",
+          "color": "white",
+          "density": "none"
+        }
+      }
+    ],
+    "map_subject": "Zoning districts of Abilene, Texas",
+    "patterns_on_map": [
+      {
+        "pattern_type": "dots",
+        "description": "Dense, fine black dots filling areas labeled 'A'",
+        "likely_meaning": "One Family Residence"
+      },
+      {
+        "pattern_type": "vertical_lines",
+        "description": "Dense black vertical lines filling areas labeled 'H'",
+        "likely_meaning": "Central Business"
+      }
+    ],
+    "additional_notes": "The map includes a detailed table in the top-left that provides setback, height, and lot area requirements for each district, using the same letter codes as the main legend.",
+    "legend_location": "bottom-right",
+    "map_title": "MAP SHOWING ZONING DISTRICTS ABILENE TEXAS TO ACCOMPANY ZONING ORDINANCE 1945",
+    "source_file": "abilene-reporter-news-apr-29-1946-p-19_map.png"
+  },
+  {
+    "has_legend": true,
+    "legend_items": [
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "White solid fill rectangle",
+        "meaning": "Residential District",
+        "pattern_details": {
+          "pattern_type": "solid",
+          "color": "white",
+          "density": "dense"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Dark solid fill rectangle",
+        "meaning": "Local Business",
+        "pattern_details": {
+          "pattern_type": "solid",
+          "color": "black",
+          "density": "dense"
+        }
+      },
+      {
+        "symbol_type": "pattern",
+        "visual_description": "Horizontal lines pattern",
+        "meaning": "Commercial & Light Manufacturing",
+        "pattern_details": {
+          "pattern_type": "horizontal_lines",
+          "color": "black",
+          "density": "medium"
+        }
+      },
+      {
+        "symbol_type": "pattern",
+        "visual_description": "Diagonal lines pattern (top-left to bottom-right)",
+        "meaning": "Heavy Industrial",
+        "pattern_details": {
+          "pattern_type": "diagonal_lines",
+          "color": "black",
+          "density": "medium"
+        }
+      }
+    ],
+    "map_subject": "Zoning districts of Appleton",
+    "patterns_on_map": [
+      {
+        "pattern_type": "solid",
+        "description": "Areas filled with white, representing residential zones across the map.",
+        "likely_meaning": "Residential District"
+      },
+      {
+        "pattern_type": "solid",
+        "description": "Small areas filled with dark (black) color, scattered within residential and commercial zones, and along main roads.",
+        "likely_meaning": "Local Business"
+      },
+      {
+        "pattern_type": "horizontal_lines",
+        "description": "Areas filled with horizontal lines, primarily seen in block-sized sections, often bordering the river or major arteries.",
+        "likely_meaning": "Commercial & Light Manufacturing"
+      },
+      {
+        "pattern_type": "diagonal_lines",
+        "description": "Large sections filled with diagonal lines (top-left to bottom-right), particularly along the river and railway lines, indicating large industrial areas.",
+        "likely_meaning": "Heavy Industrial"
+      },
+      {
+        "pattern_type": "none",
+        "description": "The river (Fox River) is depicted without a specific fill pattern but has contours indicating water flow or depth, and sometimes small islands/banks with horizontal lines or solid fill.",
+        "likely_meaning": "Fox River (water body)"
+      },
+      {
+        "pattern_type": "solid",
+        "description": "Roads and streets are typically white, contrasting with the outlines of blocks, and some main roads are labeled with text.",
+        "likely_meaning": "Roads/Streets"
+      }
+    ],
+    "additional_notes": "The map also includes lot numbers within blocks, ward boundaries, and names of streets and additions. The legend effectively covers the primary land use classifications. The map is black and white, so 'color' refers to grayscale intensity.",
+    "legend_location": "top-right",
+    "map_title": "ZONING MAP OF APPLETON",
+    "source_file": "appleton-post-crescent-oct-24-1922-p-13_map.png"
+  },
+  {
+    "has_legend": true,
+    "legend_items": [
+      {
+        "symbol_type": "pattern",
+        "visual_description": "Sparse black dots on a white background",
+        "meaning": "One Family Dwellings, Churches, Schools, Parks, etc. (District A)",
+        "pattern_details": {
+          "pattern_type": "dots",
+          "color": "black",
+          "density": "sparse"
+        }
+      },
+      {
+        "symbol_type": "pattern",
+        "visual_description": "Horizontal black lines on a white background",
+        "meaning": "Two Family Dwellings (District B)",
+        "pattern_details": {
+          "pattern_type": "horizontal_lines",
+          "color": "black",
+          "density": "medium"
+        }
+      },
+      {
+        "symbol_type": "pattern",
+        "visual_description": "Crosshatch pattern (horizontal and vertical black lines) on a white background",
+        "meaning": "Multiple Dwellings, Hospitals, Institutions, etc. (District C)",
+        "pattern_details": {
+          "pattern_type": "crosshatch",
+          "color": "black",
+          "density": "medium"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Solid black fill",
+        "meaning": "Commercial uses (District D)",
+        "pattern_details": {
+          "pattern_type": "solid",
+          "color": "black"
+        }
+      },
+      {
+        "symbol_type": "pattern",
+        "visual_description": "Diagonal black lines (top-left to bottom-right) on a white background",
+        "meaning": "Light Industry (District E)",
+        "pattern_details": {
+          "pattern_type": "diagonal_lines",
+          "color": "black",
+          "density": "medium"
+        }
+      },
+      {
+        "symbol_type": "solid_fill",
+        "visual_description": "Solid black fill",
+        "meaning": "Heavy Industry (District F)",
+        "pattern_details": {
+          "pattern_type": "solid",
+          "color": "black"
+        }
+      }
+    ],
+    "map_subject": "Zoning regulations and land use districts for the city of Atchison, Kansas",
+    "patterns_on_map": [
+      {
+        "pattern_type": "dots",
+        "description": "Sparse dots covering large areas of the map, including residential blocks, Oak Hill Cemetery, Jackson Park, and undeveloped areas along the city limits.",
+        "likely_meaning": "One Family Dwellings or Parks/Civic areas (District A)"
+      },
+      {
+        "pattern_type": "horizontal_lines",
+        "description": "Horizontal lines observed in several blocks, particularly in the central and northern parts of the city.",
+        "likely_meaning": "Two Family Dwellings (District B)"
+      },
+      {
+        "pattern_type": "crosshatch",
+        "description": "Crosshatch patterns found in various blocks throughout the map, often near commercial and industrial zones.",
+        "likely_meaning": "Multiple Dwellings or Institutions (District C)"
+      },
+      {
+        "pattern_type": "solid",
+        "description": "Solid black fill used for a significant portion of the city's core, especially along major streets and bordering the Missouri River.",
+        "likely_meaning": "Commercial uses (District D) and Heavy Industry (District F)"
+      },
+      {
+        "pattern_type": "diagonal_lines",
+        "description": "Diagonal lines observed in blocks, often adjacent to commercial or heavy industrial zones.",
+        "likely_meaning": "Light Industry (District E)"
+      },
+      {
+        "pattern_type": "solid",
+        "description": "The entire Missouri River is depicted with a solid black fill.",
+        "likely_meaning": "The Missouri River (water body)"
+      },
+      {
+        "pattern_type": "diagonal_lines",
+        "description": "A very dense, fine diagonal hatching pattern along the immediate bank of the Missouri River.",
+        "likely_meaning": "River bank, shoreline, or specific riverfront development zone, distinct from Light Industry."
+      },
+      {
+        "pattern_type": "line",
+        "description": "Thin parallel lines indicating railroad tracks, particularly prominent along the river and western parts of the city.",
+        "likely_meaning": "Railroad lines"
+      },
+      {
+        "pattern_type": "solid",
+        "description": "Solid white fill is used for roads, streets, and unbuilt/unspecified plots within zoned blocks.",
+        "likely_meaning": "Roads, streets, unzoned or undeveloped land"
+      }
+    ],
+    "additional_notes": "Districts D (Commercial) and F (Heavy Industry) share the exact same visual symbol (solid black fill) in this black and white map, making them indistinguishable without external context or color information. The legend also provides detailed height, yard, and lot area regulations for each district.",
+    "legend_location": "bottom-left",
+    "map_title": "ATCHISON KANSAS CITY PLANNING COMMISSION DISTRICT MAP LEGEND & SUMMARY OF ZONING REGULATIONS",
+    "source_file": "atchison-daily-globe-nov-30-1943-p-4_map.png"
+  }
+]
