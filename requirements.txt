@@ -15,6 +15,9 @@ matplotlib>=3.7.0
 
 # Vision Language Model integration (Google Gemini)
 google-generativeai>=0.8.0
+openai>=1.13.3
+anthropic>=0.33.0
+PyYAML>=6.0.1
 
 # Geospatial utilities
 shapely>=2.0.0
