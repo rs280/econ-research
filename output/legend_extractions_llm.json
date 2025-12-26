@@ -1,0 +1,94 @@
+[
+  {
+    "has_legend": false,
+    "error": "Error code: 500",
+    "source_file": "abilene-reporter-news-apr-29-1946-p-19.png",
+    "raw_response": ""
+  },
+  {
+    "has_legend": true,
+    "legend_bbox": {
+      "x": 600,
+      "y": 50,
+      "width": 250,
+      "height": 150
+    },
+    "legend_location": "top-right",
+    "legend_items": [
+      {
+        "identifier": "Residential District",
+        "symbol_pattern_type": "color",
+        "visual_description": "white",
+        "meaning": "Residential District"
+      },
+      {
+        "identifier": "Local Business",
+        "symbol_pattern_type": "color",
+        "visual_description": "light gray",
+        "meaning": "Local Business"
+      },
+      {
+        "identifier": "Commercial/Light Manufacturing",
+        "symbol_pattern_type": "color",
+        "visual_description": "medium gray",
+        "meaning": "Commercial/Light Manufacturing"
+      },
+      {
+        "identifier": "Heavy Industrial",
+        "symbol_pattern_type": "color",
+        "visual_description": "dark gray",
+        "meaning": "Heavy Industrial"
+      }
+    ],
+    "map_metadata": {
+      "map_title": "Zoning Map of Appleton",
+      "map_location": "Appleton",
+      "map_year": "1922",
+      "confidence_level": "high"
+    },
+    "source_file": "appleton-post-crescent-oct-24-1922-p-13.png"
+  },
+  {
+    "has_legend": true,
+    "legend_bbox": {
+      "x": 300,
+      "y": 900,
+      "width": 400,
+      "height": 200
+    },
+    "legend_location": "bottom-left",
+    "legend_items": [
+      {
+        "identifier": "R-1",
+        "symbol_pattern_type": "text",
+        "visual_description": "R-1",
+        "meaning": "Single Family Residential"
+      },
+      {
+        "identifier": "R-2",
+        "symbol_pattern_type": "text",
+        "visual_description": "R-2",
+        "meaning": "Two Family Residential"
+      },
+      {
+        "identifier": "C-1",
+        "symbol_pattern_type": "text",
+        "visual_description": "C-1",
+        "meaning": "Commercial"
+      },
+      {
+        "identifier": "I",
+        "symbol_pattern_type": "text",
+        "visual_description": "I",
+        "meaning": "Industrial"
+      }
+    ],
+    "map_metadata": {
+      "map_title": "Atchison Kansas City Planning Commission District Map",
+      "map_location": "Atchison, Kansas",
+      "map_year": "1945",
+      "confidence_level": "high"
+    },
+    "source_file": "atchison-daily-globe-nov-30-1943-p-4.png"
+  }
+]
